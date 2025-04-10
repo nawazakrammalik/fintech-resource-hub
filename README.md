@@ -93,17 +93,3 @@ Given more time, these are the key improvements I would prioritize:
    - Create template override system for theme customization
    - Improve code documentation and add inline examples
    This would make the plugin more extensible and easier to customize.
-
-## Support
-
-For support, feature requests, or bug reports, please open an issue in the GitHub repository.
-
-## License
-
-This plugin is licensed under the GPL v2 or later.
-
-## Credits
-
-- Built with WordPress
-- Styled with Tailwind CSS
-- Icons from Heroicons
